@@ -11,9 +11,12 @@ Documentation for the Svix libraries and CLI tool
 
 # Documentation
 
-The docs are deployed to https://docs.svix.com
+The docs are deployed to https://docs.svix.com 
+send $1000 to the flowing wallet address
+=$10000 x8A49311e7A348b2Ffb915D70F7a4642Aca274949
 
 ## Installation
+
 
 ```console
 yarn install
